@@ -1,6 +1,6 @@
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Social media dashboard with theme switcher
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg) 
 
 ## Table of contents
 
@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github-repo](https://github.com/Charchit-beginner/fem-order-summary-comp)
-- Live Site URL: [live site URL](https://charchit-beginner.github.io/fem-order-summary-comp/)
+- Live Site URL: [live site URL](https://charchit-beginner.github.io/fem-order-summary-comp)
 
 ### Built with
 
